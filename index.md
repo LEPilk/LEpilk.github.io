@@ -5,7 +5,8 @@
 
 ### Case Study
 [Google Data Analytics Capstone: BikeShare](https://github.com/LEPilk/PortfolioProjects/blob/main/google-data-analytics-capstone-bikeshare.ipynb)
-![Bike Case Study](/bike case study thumbnal.jpg)
+
+<img src="bike case study thumbnal.jpg"/>
 
 As part of the Google Data Analytics Capstone course, I had to prepare a case study that applied the data cleaning, exploration, and analysis skills learned in the course. 
 
