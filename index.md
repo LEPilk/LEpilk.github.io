@@ -16,4 +16,5 @@ For this project I used R as it could do all of the mentioned work as well as da
 
 Used SQL to explore COVID-19 deaths and vaccination rates from around the world from [Our World in Data](https://https://ourworldindata.org/covid-deaths). 
 
+**Skills Used in This Project:** Joins, Aggregate Functions, and Converting Data Types
 
