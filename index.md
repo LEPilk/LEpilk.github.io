@@ -3,6 +3,10 @@
 ### Data Exploration
 [Covid 19 Data Exploration Using SQL](https://github.com/LEPilk/PortfolioProjects/blob/main/Covid%2019%20Data%20Exploration%20Using%20SQL)
 
+<img src="data exploration COVID19 SQL.jpg"/>
+
+Used SQL to explore COVID-19 deaths and vaccination rates from around the world from [Our World in Data](https://https://ourworldindata.org/covid-deaths). 
+
 ### Case Study
 [Google Data Analytics Capstone: BikeShare](https://github.com/LEPilk/PortfolioProjects/blob/main/google-data-analytics-capstone-bikeshare.ipynb)
 
