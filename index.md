@@ -5,7 +5,7 @@
 
 <img src="bike case study thumbnal.jpg"/>
 
-As part of the Google Data Analytics Capstone course, I had to prepare a case study that applied the data cleaning, exploration, and analysis skills learned in the course. 
+As part of the Google Data Analytics Capstone course, I had to prepare a case study that applied the data cleaning, exploration, and analysis skills taught in the course. 
 
 For this project I used R as it could do all of the mentioned work as well as data visualizations. 
 
