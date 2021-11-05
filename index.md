@@ -12,7 +12,7 @@ For this project I used R as it could do all of the mentioned work as well as da
 ### Data Exploration
 [Covid 19 Data Exploration Using SQL](https://github.com/LEPilk/PortfolioProjects/blob/main/Covid%2019%20Data%20Exploration%20Using%20SQL)
 
-<img src="data exploration COVID19 SQL.jpg"/>
+<img src="SQL data exploration COVID19.png"/>
 
 Used SQL to explore COVID-19 deaths and vaccination rates from around the world from [Our World in Data](https://https://ourworldindata.org/covid-deaths). 
 
