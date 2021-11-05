@@ -18,3 +18,12 @@ Used SQL to explore COVID-19 deaths and vaccination rates from around the world 
 
 **Skills Used in This Project:** Joins, Aggregate Functions, and Converting Data Types
 
+### Machine Learning
+[NLP Twitter Sentiment Analysis](https://github.com/LEPilk/PortfolioProjects/blob/main/NLP%20Twitter%20Sentiment%20Analysis)
+
+<img src="Twitter Sentiment Analysis.jpg"/>
+Used Python to train a Naive Bayes classifier to gauge sentiment from Tweets.
+
+Skills Used in This Project: Machine Learning, Natural Language Processing
+
+
