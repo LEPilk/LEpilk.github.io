@@ -11,6 +11,7 @@ For this project I used R as it could do all of the mentioned work as well as da
 
 ### Machine Learning & Data Science Survey Analysis and Visualization
 [2021 Kaggle Machine Learning & Data Science Survey](https://www.kaggle.com/lauraepilkington/2021-kaggle-machine-learning-data-science-survey)
+<img src="Kaggle ML Survey Portfolio Project Pics.png"/>
 I entered Kaggle's annual Machine Learning and Data Science Survey competition, both to practice my analysis and for some real world application. 
 
 Since completing my Google Data Analytics certification I've been working on small projects and using my new skills for my work as an online content manager (with a focus on personal finance).
